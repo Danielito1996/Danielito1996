@@ -50,19 +50,6 @@ Soy un desarrollador interesado en expandir mis habilidades y conocimientos. Me 
 - [TiendaAPI](https://github.com/Danielito1996/Pregonero) - Proyecto API en ASP, para negocio de ventas y servicios. ⭐️ 1 | Language: C#
 - [chatServer](https://github.com/Danielito1996/chatServer) - Un backend de ejemplo para un chat web, usando websockets. ⭐️ 1 | Language: JavaScript
 
-<!-- Table for Projects -->
-<div>
-  <div align="center">
-    <img src="https://github.com/Danielito1996/Compra_Libre/blob/master/app/src/main/res/drawable-nodpi/pregoneros.jpg?raw=true" height="50" alt="languages graph"/>
-    <h4 alt="languages graph">Iris</h4>
-  </div>
-  <div>
-    <h6> Deteccion de objetos con el modelo de YOLOv11s convertido de .tflite de TensorFlow Lite. ⭐️ 1 | Language: Kotlin</h6>
-  </div>
-</div>
-
-
-
 ## Estado de Github:
 
 <div align="center">
