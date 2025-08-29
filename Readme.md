@@ -1,47 +1,36 @@
-## Hi there! 👋
+## Bienvenido! 👋
 
 Hola, soy **Daniel Imbert**, un desarrollador entusiasta natural de Guantánamo, Cuba. ¡Me apasiona aprender y asumir nuevos desafíos en el mundo de la tecnología!!
 
-## Sobre mi
+## Sobre mi:
 
 Soy un desarrollador interesado en expandir mis habilidades y conocimientos. Me esfuerzo por crear soluciones impactantes y acepto los desafíos que se me presentan.
 
-## Habilidades & Tecnologías
+## Habilidades & Tecnologías:
 
 html,css,react,nodejs,express,docker,mongodb,git,github,java,kotlin,flutter,vue,graphql,aws
 
-## Top Projects
+## Principales proyectos:
 
-- [Iris](https://github.com/Danielito1996/Iris) - Deteccion de objetos con el modelo de YOLOv11s convertido de .tflite de TensorFlow Lite. ⭐️ 1 | Language: Unknown
-- [Hangar](https://github.com/Danielito1996/Hangar) - A project focused on enhancing user experience through intuitive design. ⭐️ 1 | Language: Unknown
-- [LogCapture](https://github.com/Danielito1996/LogCapture) - A logging utility aimed at simplifying error tracking. ⭐️ 1 | Language: Unknown
-- [Pregonero](https://github.com/Danielito1996/Pregonero) - Application for locating products available for sale in a city or town. ⭐️ 1 | Language: Unknown
-- [chatServer](https://github.com/Danielito1996/chatServer) - A chat server application built using JavaScript. ⭐️ 1 | Language: JavaScript
+- [Iris](https://github.com/Danielito1996/Iris) - Deteccion de objetos con el modelo de YOLOv11s convertido de .tflite de TensorFlow Lite. ⭐️ 1 | Language: Kotlin
+- [Compra_Libre](https://github.com/Danielito1996/Hangar) - Breve proyecto de publicacion de ofertas y servicios , donde se usa la plataforma AppWrite y su SDK para android, para la persistencia de datos. ⭐️ 1 | Language: Kotlin
+- [AppWriteMapperGenerator](https://github.com/Danielito1996/LogCapture) -Libreria para la generacion de codigo con KSP , fundamentalmente mapeadores de los tipos generados por AppWrite a documentos y viceversa. ⭐️ 1 | Language: Kotlin
+- [TiendaAPI](https://github.com/Danielito1996/Pregonero) - Proyecto API en ASP, para negocio de ventas y servicios. ⭐️ 1 | Language: C#
+- [chatServer](https://github.com/Danielito1996/chatServer) - Un backend de ejemplo para un chat web, usando websockets. ⭐️ 1 | Language: JavaScript
 
-## GitHub Stats
+## Estado de Github:
 
 🌟 **Public Repositories**: 28
 👥 **Followers**: 1
 ➡️ **Following**: 5
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Danielito1996&show_icons=true&theme=radical)
 
-## Recent Activity
+## Últimas publicaciones:
 
-- Created a new repository '[Iris](https://github.com/Danielito1996/Iris)' for object detection implementation with YOLO11s.
-- Published release 0.1.4 for '[AppWriteMapperGenerator](https://github.com/Danielito1996/AppWriteMapperGenerator)'.
-- Pushed updates to '[Pregonero](https://github.com/Danielito1996/Pregonero)'.
-- Created a tag '0.1.3' for '[AppWriteMapperGenerator](https://github.com/Danielito1996/AppWriteMapperGenerator)'.
+Puede seguir mis último articulos en  [Medium](https://medium.com/@daniel.imbert96) donde comparto algunos trucos para el desarrollo de software!
 
-## Latest Blog Posts
-
-Check out my latest articles on [Medium](https://medium.com/@daniel.imbert96) where I share insights about technology and development!
-
-## Connect with Me
+## Puede encontrarme en:
 
 {"linkedin":"https://www.linkedin.com/in/daniel-imbert-68b4952b4","generic":"https://medium.com/@daniel.imbert96"}
-
-## My Talks
-
-- [Talk Title](link-to-talk) - Brief description of the talk
 
 ###
