@@ -1,14 +1,18 @@
-## Bienvenido! 👋
-
-Hola, soy **Daniel Imbert**, un desarrollador entusiasta natural de Guantánamo, Cuba. ¡Me apasiona aprender y asumir nuevos desafíos en el mundo de la tecnología!!
-
 ###
+
+<div align="center">
+  <img height="150" src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJpZWZqcGhicm42aDN6dTVmcjk1OXBhazhpbnozaTlxNzZnZjY2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)"  />
+</div>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Danielito1996.Danielito1996&"  />
 </div>
 
 ###
+
+## Bienvenido! 👋
+
+Hola, soy **Daniel Imbert**, un desarrollador entusiasta natural de Guantánamo, Cuba. ¡Me apasiona aprender y asumir nuevos desafíos en el mundo de la tecnología!!
 
 ## Sobre mi:
 
