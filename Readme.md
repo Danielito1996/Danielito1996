@@ -53,8 +53,8 @@ Soy un desarrollador interesado en expandir mis habilidades y conocimientos. Me 
 <!-- Table for Projects -->
 <div>
   <div align="center">
-    <img src="https://github.com/Danielito1996/Compra_Libre/blob/master/app/src/main/res/drawable-nodpi/pregoneros.jpg?raw=true" height="50" />
-    <h4>Iris</h4>
+    <img src="https://github.com/Danielito1996/Compra_Libre/blob/master/app/src/main/res/drawable-nodpi/pregoneros.jpg?raw=true" height="50" alt="languages graph"/>
+    <h4 alt="languages graph">Iris</h4>
   </div>
   <div>
     <h6> Deteccion de objetos con el modelo de YOLOv11s convertido de .tflite de TensorFlow Lite. ⭐️ 1 | Language: Kotlin</h6>
