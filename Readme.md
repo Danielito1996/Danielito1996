@@ -26,8 +26,4 @@ html,css,react,nodejs,express,docker,mongodb,git,github,java,kotlin,flutter,vue,
 
 Puede seguir mis último articulos en  [Medium](https://medium.com/@daniel.imbert96) donde comparto algunos trucos para el desarrollo de software!
 
-## Puede encontrarme en:
-
-{"linkedin":"https://www.linkedin.com/in/daniel-imbert-68b4952b4","generic":"https://medium.com/@daniel.imbert96"}
-
-###
+##
