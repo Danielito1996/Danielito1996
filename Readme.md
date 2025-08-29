@@ -29,4 +29,10 @@ html,css,react,nodejs,express,docker,mongodb,git,github,java,kotlin,flutter,vue,
 
 Puede seguir mis último articulos en  [Medium](https://medium.com/@daniel.imbert96) donde comparto algunos trucos para el desarrollo de software!
 
-##
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Danielito1996/Danielito1996/output/snake.svg" alt="Snake animation" />
+
+###
