@@ -52,17 +52,13 @@ Soy un desarrollador interesado en expandir mis habilidades y conocimientos. Me 
 
 <!-- Table for Projects -->
 <div>
-  <table style="border-collapse: separate; border-spacing: 10px; margin-top: 20px;">
-    <tr>
-      <!-- Iris Project -->
-      <td style="border: 2px solid #444; border-radius: 10px; padding: 15px; width: 300px; background-color: #282a36; vertical-align: top;">
-        <div style="display: flex; align-items: center;">
-          <img src="path/to/iris.svg" height="40" alt="Iris icon" style="margin-right: 10px;" />
-          <h3 style="color: #f8f8f2; margin: 0;">Iris</h3>
-        </div>
-        <p style="color: #bd93f9; margin-top: 10px;">Object detection using YOLOv11s model in .tflite for TensorFlow Lite. Built with Kotlin for Android.</p>
-      </td>
-  </table>
+  <div align="center">
+    <img src="https://github.com/Danielito1996/Compra_Libre/blob/master/app/src/main/res/drawable-nodpi/pregoneros.jpg?raw=true" height="150" />
+    <h4>Iris</h4>
+  </div>
+  <div>
+    <h6> Deteccion de objetos con el modelo de YOLOv11s convertido de .tflite de TensorFlow Lite. ⭐️ 1 | Language: Kotlin</h6>
+  </div>
 </div>
 
 
