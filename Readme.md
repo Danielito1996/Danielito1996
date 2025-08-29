@@ -63,6 +63,10 @@ Puede seguir mis último articulos en  [Medium](https://medium.com/@daniel.imber
 
 ###
 
-<img src="https://raw.githubusercontent.com/Danielito1996/Danielito1996/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Danielito1996/Danielito1996/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Danielito1996/Danielito1996/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Danielito1996/Danielito1996/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
