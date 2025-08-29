@@ -4,7 +4,9 @@
   <img height="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJpZWZqcGhicm42aDN6dTVmcjk1OXBhazhpbnozaTlxNzZnZjY2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
 </div>
 
-##
+#
+<h1 align="center">Hola que tal, Soy Daniel 👋?</h1>
+#
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="60" alt="kotlin logo"  />
