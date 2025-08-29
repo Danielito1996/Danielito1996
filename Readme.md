@@ -1,7 +1,7 @@
 ###
 
 <div align="center">
-  <img height="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJpZWZqcGhicm42aDN6dTVmcjk1OXBhazhpbnozaTlxNzZnZjY2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
+  <img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJpZWZqcGhicm42aDN6dTVmcjk1OXBhazhpbnozaTlxNzZnZjY2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
 </div>
 
 #
@@ -61,4 +61,8 @@ Soy un desarrollador interesado en expandir mis habilidades y conocimientos. Me 
 
 Puede seguir mis último articulos en  [Medium](https://medium.com/@daniel.imbert96) donde comparto algunos trucos para el desarrollo de software!
 
-##
+###
+
+<img src="https://raw.githubusercontent.com/Danielito1996/Danielito1996/output/snake.svg" alt="Snake animation" />
+
+###
