@@ -53,49 +53,53 @@ Soy un desarrollador interesado en expandir mis habilidades y conocimientos. Me 
 
 <!-- Project Containers -->
   <!-- Iris Project -->
-  <div style="border: 2px solid #444; border-radius: 10px; padding: 15px; margin: 10px; width: 600px; background-color: #282a36;">
-    <div style="display: flex; align-items: center;">
-      <img src="https://github.com/Danielito1996/Compra_Libre/blob/master/app/src/main/res/drawable-nodpi/pregoneros.jpg?raw=true" height="40" alt="Iris icon" style="margin-right: 10px;" />
-      <h3 style="color: #f8f8f2; margin: 0;">Iris</h3>
+   <!-- Flexbox Container for Projects -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
+    <!-- Iris Project -->
+    <div style="border: 2px solid #444; border-radius: 10px; padding: 15px; width: 300px; background-color: #282a36;">
+      <div style="display: flex; align-items: center;">
+        <img src="https://github.com/Danielito1996/Compra_Libre/blob/master/app/src/main/res/drawable-nodpi/pregoneros.jpg?raw=true" height="40" alt="Iris icon" style="margin-right: 10px;" />
+        <h3 style="color: #f8f8f2; margin: 0;">Iris</h3>
+      </div>
+      <p style="color: #bd93f9; margin-top: 10px;">Object detection using YOLOv11s model in .tflite for TensorFlow Lite. Built with Kotlin for Android.</p>
     </div>
-    <p style="color: #bd93f9; margin-top: 10px;">Object detection application using the YOLOv11s model converted to .tflite for TensorFlow Lite. Built with Kotlin for efficient and lightweight performance on Android.</p>
-  </div>
 
-  <!-- Compra_Libre Project -->
-  <div style="border: 2px solid #444; border-radius: 10px; padding: 15px; margin: 10px; width: 600px; background-color: #282a36;">
-    <div style="display: flex; align-items: center;">
-      <img src="path/to/compra_libre.svg" height="40" alt="Compra_Libre icon" style="margin-right: 10px;" />
-      <h3 style="color: #f8f8f2; margin: 0;">Compra_Libre</h3>
+    <!-- Compra_Libre Project -->
+    <div style="border: 2px solid #444; border-radius: 10px; padding: 15px; width: 300px; background-color: #282a36;">
+      <div style="display: flex; align-items: center;">
+        <img src="path/to/compra_libre.svg" height="40" alt="Compra_Libre icon" style="margin-right: 10px;" />
+        <h3 style="color: #f8f8f2; margin: 0;">Compra_Libre</h3>
+      </div>
+      <p style="color: #bd93f9; margin-top: 10px;">Platform for publishing offers and services using AppWrite and its Android SDK.</p>
     </div>
-    <p style="color: #bd93f9; margin-top: 10px;">A concise platform for publishing offers and services, leveraging AppWrite and its Android SDK for seamless data persistence and management.</p>
-  </div>
 
-  <!-- AppWriteMapperGenerator Project -->
-  <div style="border: 2px solid #444; border-radius: 10px; padding: 15px; margin: 10px; width: 600px; background-color: #282a36;">
-    <div style="display: flex; align-items: center;">
-      <img src="path/to/appwrite_mapper.svg" height="40" alt="AppWriteMapperGenerator icon" style="margin-right: 10px;" />
-      <h3 style="color: #f8f8f2; margin: 0;">AppWriteMapperGenerator</h3>
+    <!-- AppWriteMapperGenerator Project -->
+    <div style="border: 2px solid #444; border-radius: 10px; padding: 15px; width: 300px; background-color: #282a36;">
+      <div style="display: flex; align-items: center;">
+        <img src="path/to/appwrite_mapper.svg" height="40" alt="AppWriteMapperGenerator icon" style="margin-right: 10px;" />
+        <h3 style="color: #f8f8f2; margin: 0;">AppWriteMapperGenerator</h3>
+      </div>
+      <p style="color: #bd93f9; margin-top: 10px;">Kotlin library using KSP to generate mappers for AppWrite types to documents.</p>
     </div>
-    <p style="color: #bd93f9; margin-top: 10px;">A Kotlin library using KSP to generate mappers for converting AppWrite-generated types to documents and vice versa, streamlining data handling.</p>
-  </div>
 
-  <!-- TiendaAPI Project -->
-  <div style="border: 2px solid #444; border-radius: 10px; padding: 15px; margin: 10px; width: 600px; background-color: #282a36;">
-    <div style="display: flex; align-items: center;">
-      <img src="path/to/tienda_api.svg" height="40" alt="TiendaAPI icon" style="margin-right: 10px;" />
-      <h3 style="color: #f8f8f2; margin: 0;">TiendaAPI</h3>
+    <!-- TiendaAPI Project -->
+    <div style="border: 2px solid #444; border-radius: 10px; padding: 15px; width: 300px; background-color: #282a36;">
+      <div style="display: flex; align-items: center;">
+        <img src="path/to/tienda_api.svg" height="40" alt="TiendaAPI icon" style="margin-right: 10px;" />
+        <h3 style="color: #f8f8f2; margin: 0;">TiendaAPI</h3>
+      </div>
+      <p style="color: #bd93f9; margin-top: 10px;">ASP.NET API for a sales and services business, managing transactions.</p>
     </div>
-    <p style="color: #bd93f9; margin-top: 10px;">An ASP.NET API project designed for a sales and services business, providing robust backend functionality for managing transactions.</p>
-  </div>
 
-  <!-- chatServer Project -->
-  <div style="border: 2px solid #444; border-radius: 10px; padding: 15px; margin: 10px; width: 600px; background-color: #282a36;">
-    <div style="display: flex; align-items: center;">
-      <img src="path/to/chat_server.svg" height="40" alt="chatServer icon" style="margin-right: 10px;" />
-      <h3 style="color: #f8f8f2; margin: 0;">chatServer</h3>
+    <!-- chatServer Project -->
+    <div style="border: 2px solid #444; border-radius: 10px; padding: 15px; width: 300px; background-color: #282a36;">
+      <div style="display: flex; align-items: center;">
+        <img src="path/to/chat_server.svg" height="40" alt="chatServer icon" style="margin-right: 10px;" />
+        <h3 style="color: #f8f8f2; margin: 0;">chatServer</h3>
+      </div>
+      <p style="color: #bd93f9; margin-top: 10px;">WebSocket-based JavaScript backend for a real-time web chat application.</p>
     </div>
-    <p style="color: #bd93f9; margin-top: 10px;">A sample backend for a web chat application using WebSockets, built with JavaScript to enable real-time communication.</p>
-  </div>
+</div>
 
 ## Estado de Github:
 
