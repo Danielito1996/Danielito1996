@@ -53,7 +53,7 @@ Soy un desarrollador interesado en expandir mis habilidades y conocimientos. Me 
 <!-- Table for Projects -->
 <div>
   <div align="center">
-    <img src="https://github.com/Danielito1996/Compra_Libre/blob/master/app/src/main/res/drawable-nodpi/pregoneros.jpg?raw=true" height="150" />
+    <img src="https://github.com/Danielito1996/Compra_Libre/blob/master/app/src/main/res/drawable-nodpi/pregoneros.jpg?raw=true" height="50" />
     <h4>Iris</h4>
   </div>
   <div>
