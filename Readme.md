@@ -55,7 +55,7 @@ Soy un desarrollador interesado en expandir mis habilidades y conocimientos. Me 
   <!-- Iris Project -->
   <div style="border: 2px solid #444; border-radius: 10px; padding: 15px; margin: 10px; width: 600px; background-color: #282a36;">
     <div style="display: flex; align-items: center;">
-      <img src="path/to/iris.svg" height="40" alt="Iris icon" style="margin-right: 10px;" />
+      <img src="https://github.com/Danielito1996/Compra_Libre/blob/master/app/src/main/res/drawable-nodpi/pregoneros.jpg?raw=true" height="40" alt="Iris icon" style="margin-right: 10px;" />
       <h3 style="color: #f8f8f2; margin: 0;">Iris</h3>
     </div>
     <p style="color: #bd93f9; margin-top: 10px;">Object detection application using the YOLOv11s model converted to .tflite for TensorFlow Lite. Built with Kotlin for efficient and lightweight performance on Android.</p>
