@@ -4,6 +4,31 @@
   <img height="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJpZWZqcGhicm42aDN6dTVmcjk1OXBhazhpbnozaTlxNzZnZjY2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
 </div>
 
+##
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="android logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="net logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+</div>
+
+##
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Danielito1996.Danielito1996&"  />
 </div>
@@ -17,10 +42,6 @@ Hola, soy **Daniel Imbert**, un desarrollador entusiasta natural de Guantánamo,
 ## Sobre mi:
 
 Soy un desarrollador interesado en expandir mis habilidades y conocimientos. Me esfuerzo por crear soluciones impactantes y acepto los desafíos que se me presentan.
-
-## Habilidades & Tecnologías:
-
-html,css,react,nodejs,express,docker,mongodb,git,github,java,kotlin,flutter,vue,graphql,aws
 
 ## Principales proyectos:
 
