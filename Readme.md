@@ -20,9 +20,6 @@ html,css,react,nodejs,express,docker,mongodb,git,github,java,kotlin,flutter,vue,
 
 ## Estado de Github:
 
-🌟 **Public Repositories**: 28
-👥 **Followers**: 1
-➡️ **Following**: 5
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Danielito1996&show_icons=true&theme=radical)
 
 ## Últimas publicaciones:
